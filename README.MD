@@ -27,7 +27,7 @@ Foram escolhidos os algoritmos já implementados pelo pacote: KNN e Árvore de d
 Escolhemos o KNN pois achamos que era um dos mais simples, tanto na implementação quanto no entendimento.Como o bagging, de acordo com os slides da Intel, pode ser representado como a média de um conjunto de resultados de várias árvores de decisão geradas aleatoriamente a partir de um conjunto de treino e sendo testadas individualmente com o mesmo conjunto de teste, nós escolhemos utilizar o método de Árvores de decisão para poder fazer a comparação com o bagging.
 
 5. Resultados
-Nós utilizamos várias funções de avaliação do ​sklearn , dentre elas: ​.score(), .f1_score(), precision_score(), recall_score(), zero_one_loss(). Ssendo os principais deles o .score() e o zero_one_loss().
+Nós utilizamos várias funções de avaliação do ​sklearn , dentre elas: ​.score(), .f1_score(), precision_score(), recall_score(), zero_one_loss(). Sendo os principais deles o .score() e o zero_one_loss().
 
 5.1 score()
 In multilabel classification, this function computes subset accuracy: the set of labels predicted for a sample must exactly match the corresponding set of labels in y_true. Ou seja irá retornar a porcentagem de acertos individuais do resultado gerado pelo método.
