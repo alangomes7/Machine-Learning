@@ -1,6 +1,6 @@
-Relatório IA Trabalho 3 Machine Learning
-Professora: Aline Paes
-Grupo: Alan da Silva Gomes, Eduardo Henrique Q. Peniche, Marcelo José Medeiros de Almeida Junior.
+Trabalho 3 de Inteligência Artificial   Tema: Machine Learning/classificador de vinhos
+Professora: Aline Paes Disciplina/Semestre: Inteligência Artificial/2019.1
+Alunos: Alan Gomes, Eduardo Peniche e Marcelo José
 
 1. Introdução
 Neste trabalho usamos uma base de dados textual com o tema: avaliação de vinhos. Tivemos bastante discussões a respeito da escolha dos algoritmos e no final escolhemos o KNN e o BAGGING. O KNN e o BAGGING foram implementados usando os algoritmos do ​scikit-learn.
