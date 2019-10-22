@@ -1,5 +1,5 @@
 Relatório IA Trabalho 3 Machine Learning
-Professora: Aline Paes 
+Professora: Aline Paes
 Grupo: Alan da Silva Gomes, Eduardo Henrique Q. Peniche, Marcelo José Medeiros de Almeida Junior.
 
 1. Introdução
