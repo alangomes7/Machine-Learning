@@ -1,4 +1,4 @@
-Trabalho 3 de Inteligência Artificial   Tema: Machine Learning/classificador de vinhos
+Trabalho 3 de Inteligência Artificial   Tema: Machine Learning - Classificador de Vinhos
 Professora: Aline Paes Disciplina/Semestre: Inteligência Artificial/2019.1
 Alunos: Alan Gomes, Eduardo Peniche e Marcelo José
 
