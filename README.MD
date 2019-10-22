@@ -42,10 +42,10 @@ Os dados de saída estão em um arquivo separado com o nome “saida_de_dados”
 Fazer a implementação dos algoritmos por mais incrível que pareça não foi a parte mais difícil do trabalho, mas sim a interpretação dos dados. No final concluímos que entre os métodos utilizados o BAGGING se mostrou o mais confiável, visto que nele foram utilizados mais de um método o que consequentemente aumentou a sua precisão nos dados.
 
 8. Referências
-KNN:
+8.1 KNN:
 https://www.youtube.com/watch?v=gJK4fmCvcWY
 https://www.youtube.com/watch?v=ddqQUz9mZaM
-BAGGING:
+8.2 BAGGING:
 https://www.youtube.com/watch?v=2Mg8QD0F1dQ
-Slides da intel:
+8.3 Slides da intel:
 https://software.intel.com/en-us/ai/courses/machine-learning
